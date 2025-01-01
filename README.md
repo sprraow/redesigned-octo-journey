@@ -1,1 +1,1 @@
-Introductory HTMl syntax trial
+odin project stuff
